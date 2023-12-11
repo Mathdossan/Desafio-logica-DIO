@@ -1,4 +1,6 @@
+// Digite o nome do herói
 let nome = "Marreta"
+// Digite o nível de experiência
 let experiencia = 0
 
 if(experiencia<=1000){
